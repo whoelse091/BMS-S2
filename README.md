@@ -1,7 +1,8 @@
 # BMS-USB CHARGE 2S (Rev V1)
 
 Система управления и защиты (BMS) для сборок из двух Li-ion аккумуляторов. Проект разработан для обеспечения надежной работы при высоких токах и точного выравнивания напряжения ячеек.
-<img width="987" height="1055" alt="image" src="https://github.com/user-attachments/assets/9dda3d06-26f9-4a8f-9e37-93f5459479b9" /><img width="1000" height="1141" alt="image" src="https://github.com/user-attachments/assets/5807f692-2cba-42c5-842a-cc6997a92889" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/be2ff88e-8f75-4916-b44f-1bab6b6ac52d" />
+
 
 
 
